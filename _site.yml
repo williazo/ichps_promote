@@ -1,0 +1,7 @@
+name: "A View from the Clouds: Blog"
+output_dir: "."
+navbar:
+  title: "A View from the Clouds: Blog"
+  left:
+    - text: "Home"
+      href: index.html

@@ -1,0 +1,11 @@
+---
+title: Notes and Ruminations
+output:
+  html_document:
+    theme: readable
+    highlight: pygments
+---
+
+Welcome, this site is created as a space to write long form opinions about related to statistics.
+
+*Note: All views and opinions reflect my own personal belief and are not endorsements of my employer*
